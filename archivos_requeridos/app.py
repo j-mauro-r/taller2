@@ -8,7 +8,7 @@ import numpy as np
 import pandas as pd
 import datetime as dt
 
-
+#cambios de Stevan Ramirez - Taller 2
 
 app = dash.Dash(
     __name__,
